@@ -29,20 +29,6 @@
     font-weight: 500;
   }
 
-  h2 {
-    font-size: calc(1.25rem + 1vw);
-    font-family: "Outfit", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-  }
-
-  h3 {
-    font-size: calc(1rem + 1vw);
-    font-family: "Outfit", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-  }
-
   p {
     font-size: calc(0.5rem + 0.3vw);
     font-family: "Nunito", sans-serif;
